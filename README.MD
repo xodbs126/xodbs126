@@ -50,15 +50,4 @@
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=xodbs126&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xodbs126&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=xodbs126&theme=tokyonight&hide_border=true"/>
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5FA,100:4F8EF7&height=100&section=footer" width="100%"/>
