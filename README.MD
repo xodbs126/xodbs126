@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8EF7,100:6DD5FA&height=180&section=header&text=Hi%20there,%20I'm%20Taeyun%20👋&fontSize=36&fontColor=ffffff&fontAlignY=38" />
 
-### 🌱 데이터와 성능을 고민하는 백엔드 개발자 김태윤입니다
 
 <a href="https://github.com/xodbs126"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <!-- 이메일·블로그가 있으면 아래 주석을 풀고 주소를 바꿔 넣으세요 -->
